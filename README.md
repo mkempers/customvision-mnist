@@ -1,6 +1,8 @@
 # Example of customvision.ai with MNIST dataset
 Trying out customvision.ai with the MNIST dataset. I used Python 3.5 for this.
 
+![Custom Vision AI](customvision.png)
+
 Custom Vision Service is a tool for building custom image classifiers. It makes it easy and fast to build, 
 deploy, and improve an image classifier, see https://customvision.ai. Custom Vision Service is a tool for building 
 custom image classifiers, and for making them better over time. The classifier is pre-trained for image recognition,
